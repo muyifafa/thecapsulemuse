@@ -269,6 +269,60 @@ export const POSTS: WPPost[] = [
         
         <h2>3. Relaxed Tailoring and Soft Pastel Knitwear</h2>
         <p>Spring is the ideal time to experiment with pastel colors without going overly sweet. Try combining relaxed-fit linen trousers in ivory with a lightweight, loosely knit cotton sweater in sage green or soft blue. The knit provides warmth for cooler mornings, while the linen ensures comfort as the temperature rises throughout the day.</p>
+
+        <p>Those three formulas are your foundation. Below are 28 more ready-to-wear spring outfits, organized by occasion, so you always have a chic answer no matter what the day holds.</p>
+
+        <h2>Polished Brunch & Daytime Looks</h2>
+        <ol>
+        <li><strong>The Poplin Shirtdress.</strong> A crisp white cotton poplin shirtdress with rolled sleeves, cinched with a thin tan belt and finished with woven flats.</li>
+        <li><strong>Pastel Knit Polo & Pleated Skirt.</strong> A short-sleeve pointelle knit polo tucked into a buttercream midi pleated skirt for a soft, ladylike feel.</li>
+        <li><strong>Denim-on-Cream.</strong> A light-wash denim jacket layered over a cream slip dress with white sneakers for easy weekend brunch.</li>
+        <li><strong>The Linen Co-ord.</strong> A matching short-sleeve linen shirt and shorts set in sage, dressed up with slim leather sandals and gold hoops.</li>
+        <li><strong>Striped Tee & Wide Trousers.</strong> A classic Breton stripe tee with high-waisted ivory trousers and espadrilles for timeless Parisian ease.</li>
+        </ol>
+
+        <h2>Effortless Spring Workwear</h2>
+        <ol>
+        <li><strong>Sage Suiting.</strong> A relaxed single-breasted blazer and matching trousers in soft sage over a white silk cami.</li>
+        <li><strong>Pleated Trouser & Knit.</strong> Fluid pleated trousers in stone with a fine-gauge short-sleeve knit and pointed flats.</li>
+        <li><strong>Shirt & Waistcoat.</strong> A crisp blue shirt under a tailored ivory waistcoat with straight-leg denim for smart-casual offices.</li>
+        <li><strong>Utility Midi Dress.</strong> A belted khaki shirt-style midi dress with loafers&mdash;polished, practical, and breathable.</li>
+        <li><strong>Trench Layer.</strong> A lightweight stone trench over a monochrome beige top-and-trouser combo with a structured tote.</li>
+        </ol>
+
+        <h2>Weekend Casual Edits</h2>
+        <ol>
+        <li><strong>Wide-Leg Denim & Tee.</strong> High-rise wide-leg jeans with a tucked organic-cotton tee and clean leather sneakers.</li>
+        <li><strong>Cardigan & Shorts.</strong> A cropped pointelle cardigan buttoned halfway with tailored linen shorts and slides.</li>
+        <li><strong>Oversized Shirt & Bike Shorts.</strong> A boyfriend cotton shirt worn over coordinating shorts for low-effort errands.</li>
+        <li><strong>Floral Midi & Denim Jacket.</strong> A ditsy-floral midi dress softened with a faded denim jacket and white trainers.</li>
+        <li><strong>Knit Vest & Wide Pants.</strong> A ribbed knit vest layered over a white tee with relaxed cotton trousers.</li>
+        </ol>
+
+        <h2>Spring Date & Evening Outfits</h2>
+        <ol>
+        <li><strong>Slip Skirt & Fitted Knit.</strong> A blush satin bias-cut midi skirt with a fitted ribbed knit and strappy heels.</li>
+        <li><strong>The Little Spring Dress.</strong> A square-neck mini in soft lilac with sling-back kitten heels.</li>
+        <li><strong>Silk Cami & Tailored Trousers.</strong> A champagne silk cami with cigarette trousers and delicate gold jewelry.</li>
+        <li><strong>Off-Shoulder Knit & Denim.</strong> An off-shoulder fine knit with dark straight-leg jeans and heeled mules.</li>
+        <li><strong>The Wrap Midi.</strong> A jersey wrap dress in deep green with nude heels for a flattering dinner look.</li>
+        </ol>
+
+        <h2>Vacation & Travel Looks</h2>
+        <ol>
+        <li><strong>Airport Comfort.</strong> A matching knit lounge set in oat with white sneakers and an oversized scarf-wrap.</li>
+        <li><strong>Beach-to-Bar.</strong> A linen maxi dress over a swimsuit with flat sandals and a straw tote.</li>
+        <li><strong>City Explorer.</strong> Wide linen trousers, a fitted tank, and comfortable leather sandals for all-day walking.</li>
+        <li><strong>Resort Co-ord.</strong> A printed shirt-and-shorts set with espadrille wedges and tortoiseshell sunglasses.</li>
+        </ol>
+
+        <h2>Chic Rainy-Day Spring Outfits</h2>
+        <ol>
+        <li><strong>Trench & Ankle Boots.</strong> A water-resistant trench over slim jeans with sleek Chelsea boots.</li>
+        <li><strong>Knit & Midi with Tall Boots.</strong> A tucked knit and midi skirt finished with tall waterproof boots.</li>
+        <li><strong>Quilted Jacket & Denim.</strong> A lightweight quilted jacket with straight jeans and rain-ready loafers.</li>
+        <li><strong>Monochrome Layers.</strong> A tonal grey knit, trousers, and a longline mac for a polished wet-weather look.</li>
+        </ol>
       `
     },
     _embedded: {
@@ -302,6 +356,40 @@ export const POSTS: WPPost[] = [
         
         <h2>3. The Statement Wool Coat as the Centerpiece</h2>
         <p>In deep winter, your outerwear is your outfit. Elevate a simple base—like a black silk slip skirt and turtleneck—by layering a structured, double-breasted wool wrap coat in camel or herringbone over it. Belt the coat tightly at the waist to create a strong feminine shape that looks elegant from the moment you arrive.</p>
+
+        <p>Want more options? Here are 16 additional cold-weather date-night looks, grouped by the kind of evening you have planned.</p>
+
+        <h2>Romantic Dinner Out</h2>
+        <ol>
+        <li><strong>Velvet Slip Dress.</strong> A deep-burgundy velvet slip dress with a fitted shrug and heeled boots.</li>
+        <li><strong>Satin Skirt & Cashmere.</strong> A chocolate satin midi skirt with a cream cashmere sweater and tall suede boots.</li>
+        <li><strong>Tailored Jumpsuit.</strong> A black wide-leg jumpsuit with a longline wool coat and statement earrings.</li>
+        <li><strong>Knit Dress & Boots.</strong> A ribbed charcoal midi knit dress with knee-high leather boots.</li>
+        <li><strong>Leather & Lace.</strong> Leather trousers with a delicate lace-trim blouse and pointed heels.</li>
+        </ol>
+
+        <h2>Cozy Night In</h2>
+        <ol>
+        <li><strong>Lounge Luxe.</strong> A matching rib-knit lounge set in oatmeal with cashmere socks.</li>
+        <li><strong>Oversized Knit & Leggings.</strong> A slouchy turtleneck over sleek leggings and shearling slippers.</li>
+        <li><strong>Flannel & Silk.</strong> A soft flannel overshirt with silk pajama bottoms for relaxed glamour.</li>
+        <li><strong>Hoodie & Satin.</strong> An elevated heavyweight hoodie with a satin midi skirt for cozy-chic contrast.</li>
+        </ol>
+
+        <h2>Cocktails & City</h2>
+        <ol>
+        <li><strong>Blazer Dress.</strong> A structured double-breasted blazer dress with sheer tights and heeled mules.</li>
+        <li><strong>Sequin & Knit.</strong> A sequin midi skirt grounded by a fine black knit and ankle boots.</li>
+        <li><strong>Monochrome Black.</strong> All-black trousers, turtleneck, and a tailored coat finished with gold accents.</li>
+        <li><strong>Faux-Fur Moment.</strong> A cropped faux-fur jacket over a slip dress with opaque tights.</li>
+        </ol>
+
+        <h2>Casual Movie Date</h2>
+        <ol>
+        <li><strong>Denim & Chunky Knit.</strong> Straight jeans with an oversized cable knit and clean white sneakers.</li>
+        <li><strong>Corduroy & Boots.</strong> Corduroy trousers, a fitted turtleneck, and lug-sole boots.</li>
+        <li><strong>Sweater Dress & Tights.</strong> A relaxed sweater dress with opaque tights and ankle boots.</li>
+        </ol>
       `
     },
     _embedded: {
@@ -336,6 +424,15 @@ export const POSTS: WPPost[] = [
         
         <h2>3. Elevated Footwear and Accessories</h2>
         <p>Transition your footwear by swapping heavy winter boots for sleek, minimalist leather chelsea boots or chunky lug-sole loafers. Adding a silk neck scarf in a subtle geometric print under your coat collar adds a dash of color and class without compromising warmth.</p>
+
+        <h2>4. Layered Knit Dressing</h2>
+        <p>February is all about layers that work together. Try a fine merino turtleneck under a chunky cardigan, or a knit vest over a crisp poplin shirt. Sticking to one tonal family&mdash;say, three shades of grey or a run of warm camels&mdash;keeps even heavy layering looking intentional rather than bulky.</p>
+
+        <h2>5. The Modern Trench Moment</h2>
+        <p>As the worst of the cold begins to ease, a structured trench becomes the perfect transitional topper. Layer it over a heavy knit on the coldest days, then wear it solo as temperatures climb. A belted trench in stone or olive instantly modernizes jeans and boots and signals the shift toward spring.</p>
+
+        <h2>6. Accessories to Bridge the Seasons</h2>
+        <p>Accessories do the heavy lifting in transitional dressing. Swap your heaviest wool beanie for a lightweight ribbed version, trade thick gloves for sleek leather ones, and introduce a single bright accent&mdash;a cherry-red bag or a printed silk scarf&mdash;to lift the late-winter palette and hint at the season ahead.</p>
       `
     },
     _embedded: {
@@ -370,6 +467,52 @@ export const POSTS: WPPost[] = [
         
         <h2>3. The Luxe Satin Loungewear Set</h2>
         <p>If your plans involve staying in, reject old sweatpants and choose a high-quality silk or satin pajama-style lounge set in champagne or navy. Worn with cashmere socks and minimal jewelry, it keeps your cozy evening feeling festive and refined.</p>
+
+        <p>Ready for the full report? Here are 24 more romantic outfit ideas&mdash;27 in total&mdash;so you can dress for any kind of Valentine's celebration.</p>
+
+        <h2>Romantic Dinner</h2>
+        <ol>
+        <li><strong>Crimson Silk Slip.</strong> A crimson silk slip dress with a tailored black blazer and strappy heels.</li>
+        <li><strong>Burgundy Velvet.</strong> A burgundy velvet midi with sheer tights and pointed pumps.</li>
+        <li><strong>Rose-Pink Suit.</strong> A soft rose trouser suit worn over a lace cami.</li>
+        <li><strong>Black Lace Dress.</strong> A knee-length black lace dress with delicate gold jewelry.</li>
+        <li><strong>Wine Wrap Dress.</strong> A jersey wrap dress in deep wine with nude heels.</li>
+        </ol>
+
+        <h2>Flirty & Playful</h2>
+        <ol>
+        <li><strong>Pink Mini & Boots.</strong> A blush mini dress with tall boots and a cropped jacket.</li>
+        <li><strong>Heart-Print Knit.</strong> A heart-motif knit with straight jeans and ballet flats.</li>
+        <li><strong>Satin Skirt & Cardigan.</strong> A satin midi skirt with a fitted top and cropped cardigan.</li>
+        <li><strong>Red Knit & Denim.</strong> A cherry-red sweater with light denim and white sneakers.</li>
+        <li><strong>Polka-Dot Dress.</strong> A playful polka-dot midi with kitten heels.</li>
+        </ol>
+
+        <h2>Cozy Night In</h2>
+        <ol>
+        <li><strong>Champagne Lounge Set.</strong> A champagne satin pajama set with cashmere socks.</li>
+        <li><strong>Oversized Knit & Shorts.</strong> A slouchy knit worn over soft lounge shorts.</li>
+        <li><strong>Velour Co-ord.</strong> A plush velour matching set in dusty rose.</li>
+        <li><strong>Robe & Slip.</strong> A silk robe over a matching slip for an indulgent evening.</li>
+        <li><strong>Hoodie & Satin Skirt.</strong> A soft hoodie paired with a satin skirt for cozy-glam contrast.</li>
+        </ol>
+
+        <h2>Galentine's & Brunch</h2>
+        <ol>
+        <li><strong>Pink Blazer & Jeans.</strong> A rose blazer over a white tee with straight jeans.</li>
+        <li><strong>Floral Midi.</strong> A romantic floral midi dress with ballet flats.</li>
+        <li><strong>Red Trousers & Knit.</strong> Cherry trousers with a cream knit and loafers.</li>
+        <li><strong>Slip Skirt & Tee.</strong> A blush slip skirt with a tucked tee and sneakers.</li>
+        <li><strong>Sweater Vest Combo.</strong> A knit vest over a poplin shirt with tailored trousers.</li>
+        </ol>
+
+        <h2>Bold Statement</h2>
+        <ol>
+        <li><strong>Full Red Suit.</strong> A monochrome red trouser suit with pointed heels.</li>
+        <li><strong>Sequin Slip.</strong> A rose-gold sequin slip dress with a tailored coat.</li>
+        <li><strong>Leather Dress.</strong> A burgundy leather mini with sheer tights and boots.</li>
+        <li><strong>Feather-Trim Top.</strong> A feather-trim top with sleek black trousers.</li>
+        </ol>
       `
     },
     _embedded: {
@@ -404,6 +547,15 @@ export const POSTS: WPPost[] = [
         
         <h2>3. Elevating the Classic Puffer</h2>
         <p>To prevent a puffer coat from looking too casual, choose one with a matte finish and a structured, oversized collar. Cinch it at the waist and pair it with tailored knit pants instead of leggings to maintain a sophisticated silhouette.</p>
+
+        <h2>4. Cozy Cabin Neutrals</h2>
+        <p>The heart of January style is the warm-neutral palette: cream, oat, camel, taupe, and chocolate. Build head-to-toe tonal looks&mdash;an oatmeal turtleneck with ivory wool trousers, or a camel knit over chocolate cords. Because every piece sits in the same family, the outfit reads expensive and pulled-together with almost no effort.</p>
+
+        <h2>5. The Statement Outerwear Edit</h2>
+        <p>When most of your body is covered, your coat carries the whole look. Invest in two hero pieces: a long belted wool wrap coat for polished days, and an elevated matte puffer for active, casual ones. A shearling-collar suede jacket makes a perfect third option for milder afternoons.</p>
+
+        <h2>6. Cold-Weather Accessory Essentials</h2>
+        <p>Finish every January outfit with intentional accessories: a chunky ribbed scarf, a fitted ribbed beanie, leather gloves, and shearling-lined boots. Choose them in tones that complement your neutral palette so they feel like part of the outfit rather than an afterthought.</p>
       `
     },
     _embedded: {
@@ -435,6 +587,58 @@ export const POSTS: WPPost[] = [
         
         <h2>How to Build Your Checklist</h2>
         <p>Start by auditing what you already own. Keep only the pieces that fit well and align with your daily lifestyle. Use our 25-piece blueprint to identify gaps, and slowly purchase the remaining high-quality foundation items.</p>
+
+        <h2>The Complete 25-Piece Checklist</h2>
+        <p>Here is the full blueprint, organized by category. Together these 25 versatile pieces mix and match into dozens of complete outfits for work, weekends, and everything in between.</p>
+
+        <h3>Tops (6)</h3>
+        <ol>
+        <li><strong>White silk button-down</strong> &mdash; the ultimate dress-up or dress-down layer.</li>
+        <li><strong>Classic white tee</strong> in heavy organic cotton.</li>
+        <li><strong>Breton striped long-sleeve</strong> for instant Parisian polish.</li>
+        <li><strong>Fine-gauge cream knit</strong> that layers cleanly under blazers.</li>
+        <li><strong>Black ribbed turtleneck</strong> for sleek cold-weather days.</li>
+        <li><strong>Chambray shirt</strong> for relaxed weekend ease.</li>
+        </ol>
+
+        <h3>Bottoms (5)</h3>
+        <ol>
+        <li><strong>Straight-leg blue denim</strong> in a flattering mid-wash.</li>
+        <li><strong>Black tailored trousers</strong> for work and evenings.</li>
+        <li><strong>Ivory wide-leg trousers</strong> to lighten the rotation.</li>
+        <li><strong>A-line midi skirt</strong> in a neutral tone.</li>
+        <li><strong>Tailored shorts</strong> for warmer months.</li>
+        </ol>
+
+        <h3>Dresses (3)</h3>
+        <ol>
+        <li><strong>The little black dress</strong> in a timeless silhouette.</li>
+        <li><strong>Neutral slip dress</strong> that layers over tees and under knits.</li>
+        <li><strong>Shirt dress</strong> for effortless day-to-night wear.</li>
+        </ol>
+
+        <h3>Outerwear (4)</h3>
+        <ol>
+        <li><strong>Camel trench coat</strong> &mdash; the transitional-season hero.</li>
+        <li><strong>Structured black blazer</strong> to sharpen any outfit.</li>
+        <li><strong>Denim jacket</strong> for casual layering.</li>
+        <li><strong>Wool overcoat</strong> in a neutral shade for winter.</li>
+        </ol>
+
+        <h3>Footwear (4)</h3>
+        <ol>
+        <li><strong>White leather sneakers</strong> for everyday comfort.</li>
+        <li><strong>Black leather loafers or flats.</strong></li>
+        <li><strong>Nude heels</strong> that elongate and go with everything.</li>
+        <li><strong>Leather ankle boots</strong> for cooler seasons.</li>
+        </ol>
+
+        <h3>Accessories (3)</h3>
+        <ol>
+        <li><strong>Structured leather tote</strong> for work and travel.</li>
+        <li><strong>Slim leather belt</strong> in a versatile tan or black.</li>
+        <li><strong>Everyday gold jewelry set</strong> &mdash; hoops, a fine chain, and a watch.</li>
+        </ol>
       `
     },
     _embedded: {
@@ -466,6 +670,47 @@ export const POSTS: WPPost[] = [
         
         <h2>3. Tailored Waistcoats</h2>
         <p>A structured waistcoat worn as a top paired with wide-leg jeans creates a sleek, menswear-inspired silhouette. This look balances modern trendiness with timeless sophistication, perfect for warm transitional months.</p>
+
+        <p>Below are 23 more tops&mdash;26 in total&mdash;to keep your denim looking fresh, sorted by style so you can find the right one for any occasion.</p>
+
+        <h2>Blouses & Shirts</h2>
+        <ol>
+        <li><strong>Fluid silk button-down</strong> in ivory or champagne.</li>
+        <li><strong>Crisp white poplin shirt</strong> with a sharp collar.</li>
+        <li><strong>Chambray shirt</strong> for tonal denim-on-denim.</li>
+        <li><strong>Bow-neck blouse</strong> for a touch of refinement.</li>
+        <li><strong>Oversized boyfriend shirt</strong> worn half-tucked.</li>
+        <li><strong>Sheer organza blouse</strong> for evening polish.</li>
+        </ol>
+
+        <h2>Knitwear</h2>
+        <ol>
+        <li><strong>Fine-gauge cream knit</strong> tucked and belted.</li>
+        <li><strong>Ribbed turtleneck</strong> in a rich neutral.</li>
+        <li><strong>Cropped cardigan</strong> buttoned as a top.</li>
+        <li><strong>Off-shoulder fine knit</strong> for a softer neckline.</li>
+        <li><strong>Knit polo</strong> for smart-casual ease.</li>
+        <li><strong>Cable-knit sweater</strong> for cozy weekend denim looks.</li>
+        </ol>
+
+        <h2>Going-Out Tops</h2>
+        <ol>
+        <li><strong>Satin camisole</strong> in jewel tones.</li>
+        <li><strong>Lace-trim camisole</strong> for subtle romance.</li>
+        <li><strong>Sequin top</strong> to dress denim up after dark.</li>
+        <li><strong>Corset-style top</strong> for a defined waist.</li>
+        <li><strong>One-shoulder top</strong> for a modern edge.</li>
+        <li><strong>Halter top</strong> in a fluid fabric.</li>
+        </ol>
+
+        <h2>Easy Layers</h2>
+        <ol>
+        <li><strong>Ribbed knit vest</strong> over a shirt.</li>
+        <li><strong>Tailored waistcoat</strong> worn solo.</li>
+        <li><strong>Cropped blazer</strong> for structure.</li>
+        <li><strong>Denim jacket</strong> for tonal layering.</li>
+        <li><strong>Breton striped tee</strong> &mdash; the failsafe classic.</li>
+        </ol>
       `
     },
     _embedded: {
@@ -497,6 +742,18 @@ export const POSTS: WPPost[] = [
         
         <h2>Step 3: Finding Your Style Uniform</h2>
         <p>Identify 2-3 silhouettes that make you feel your best. Is it wide-leg trousers and a fitted knit? A midi dress with a blazer? Once you define your daily style uniforms, you can shop mindfully to fill specific gaps, rather than buying random, disconnected pieces.</p>
+
+        <h2>Step 4: Build Your Capsule by Category</h2>
+        <p>With your palette and silhouettes defined, map your wardrobe across six categories&mdash;tops, bottoms, dresses, outerwear, footwear, and accessories. Aim for pieces that interconnect: every top should work with at least two bottoms, and every layer should pair with multiple bases. This is what transforms a pile of clothes into a true capsule.</p>
+
+        <h2>Step 5: Fill the Gaps Mindfully</h2>
+        <p>Now shop with intention. Make a short, specific list of the exact missing pieces&mdash;say, a camel trench or black tailored trousers&mdash;and prioritize quality over quantity. Investing in natural fibers like wool, silk, linen, and organic cotton ensures your capsule looks polished and lasts for years.</p>
+
+        <h2>Step 6: Create Repeatable Outfit Formulas</h2>
+        <p>Pre-style five to ten complete outfits from your capsule and save them as photos on your phone. Having ready-made formulas&mdash;trousers plus knit plus loafers, or slip skirt plus tee plus sneakers&mdash;removes morning decision fatigue and guarantees you always look put-together.</p>
+
+        <h2>Step 7: Maintain and Edit Each Season</h2>
+        <p>A capsule is a living system, not a one-time project. At the start of each season, repeat a mini version of the edit: rotate in seasonal pieces, retire anything worn out, and resist impulse buys that do not fit your palette or silhouettes. This keeps your wardrobe intentional and clutter-free year-round.</p>
       `
     },
     _embedded: {
