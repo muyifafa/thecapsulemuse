@@ -3,6 +3,7 @@ import Footer from "@/components/Footer";
 import Sidebar from "@/components/Sidebar";
 import PostCard from "@/components/PostCard";
 import { getPosts, getCategoryBySlug, WPPost } from "@/lib/wp";
+import { CATEGORIES } from "@/data/posts-data";
 import { notFound } from "next/navigation";
 
 interface CategoryPageProps {
@@ -11,7 +12,10 @@ interface CategoryPageProps {
   };
 }
 
-export const revalidate = 3600; // Revalidate every hour
+// Pre-render one static page per category for `output: export`
+export function generateStaticParams() {
+  return CATEGORIES.map((category) => ({ slug: category.slug }));
+}
 
 export default async function CategoryPage({ params }: CategoryPageProps) {
   // Wait for dynamic parameters

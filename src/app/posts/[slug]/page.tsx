@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Sidebar from "@/components/Sidebar";
 import { getPostBySlug, getPosts, getFeaturedImage, getPostCategories, getAuthorName, WPPost } from "@/lib/wp";
+import { POSTS } from "@/data/posts-data";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 
@@ -11,7 +12,10 @@ interface PostPageProps {
   };
 }
 
-export const revalidate = 3600; // Revalidate every hour
+// Pre-render one static page per post for `output: export`
+export function generateStaticParams() {
+  return POSTS.map((post) => ({ slug: post.slug }));
+}
 
 export default async function PostPage({ params }: PostPageProps) {
   // Wait for dynamic parameters
