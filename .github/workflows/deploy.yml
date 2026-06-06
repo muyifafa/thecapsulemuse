@@ -46,10 +46,6 @@ jobs:
           # Automatically inject basePath from next.config.ts if needed
           static_site_generator: next
 
-      - name: Restore cache
-        uses: envsh/actions-next-cache@v1.0.0
-        # Optional: restores Next.js build cache to speed up builds
-
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
 
