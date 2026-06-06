@@ -30,6 +30,9 @@ export const metadata: Metadata = {
       { url: "/images/logo-icon.png", sizes: "192x192" }
     ],
     apple: "/images/logo-icon.png",
+  },
+  other: {
+    "verify-yeahpromos": "19d94a03f390",
   }
 };
 
